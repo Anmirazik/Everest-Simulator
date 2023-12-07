@@ -2,7 +2,11 @@
     "name": "everest-evcharger-software-in-the-loop",
     "description": "everest node-red software in the loop flows ",
     "version": "0.0.1",
-    "dependencies": {},
+    "dependencies": {
+        "node-red-contrib-ui-level": "0.1.46",
+        "node-red-dashboard": "3.6.1",
+        "node-red-node-ui-table": "0.4.3"
+    },
     "node-red": {
         "settings": {
             "flowFile": "flows.json",
