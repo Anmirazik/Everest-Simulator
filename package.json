@@ -1,0 +1,12 @@
+{
+    "name": "everest-evcharger-software-in-the-loop",
+    "description": "everest node-red software in the loop flows ",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows.json",
+            "credentialsFile": "flows_cred.json"
+        }
+    }
+}
