@@ -1,7 +1,7 @@
-everest-evcharger-software-in-the-loop
+Everest EV Charger Software In The Loop 
 ======================================
 
-everest node-red software in the loop flows 
+Everest EV Charger Node-Red software in the loop flow
 
 ### About
 
